@@ -1,5 +1,5 @@
 form {
-    border: 3px solid #f1f1f1;
+    border: 10px solid #f1f1f1;
 }
 
 body {
@@ -29,7 +29,7 @@ button {
     margin: 8px 0;
     border: none;
     cursor: pointer;
-    width: 100%;
+    width: 20%;
 }
 
 
